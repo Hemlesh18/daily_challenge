@@ -14,7 +14,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "build": "npm start"
+    "build": "npm i",
+    "start": "npm start"
   },
   "eslintConfig": {
     "extends": [
